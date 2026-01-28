@@ -24,3 +24,5 @@ RT / R2 / ZR - Shoot
 LB+RB / L!+R! / L+R (WHILE LOOKING AT DRONE) - Grapple Kill
 
 Right Thumbstick pressed - Melee
+
+# GAMEPAD IS REQUIRED TO PLAY GAME!!!!!!!
