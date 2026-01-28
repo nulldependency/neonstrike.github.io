@@ -22,3 +22,5 @@ LT / L2 / ZL - Aim/Zoom
 RT / R2 / ZR - Shoot
 
 LB+RB / L!+R! / L+R (WHILE LOOKING AT DRONE) - Grapple Kill
+
+Right Thumbstick pressed - Melee
