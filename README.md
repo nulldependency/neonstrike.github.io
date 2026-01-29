@@ -7,8 +7,12 @@ a never ending hell storm of vigorous foes and master the arena by showing your 
 
 Stay up to date by joining the official Neon Strike discord server: [DISCORD](https://discord.gg/4qXaDScXe5)
 
-# CONTROLS:
+# GAMEPAD CONTROLS:
 ### Xbox / PS / Nintendo
+Left Thumbstick - move
+
+Right Thumbstick - look
+
 X / Square / Y - Reload
 
 A / X button / B - Select/Jump (Click twice for double jump)
@@ -25,4 +29,26 @@ LB+RB / L!+R! / L+R (WHILE LOOKING AT DRONE) - Grapple Kill
 
 Right Thumbstick pressed - Melee
 
-# GAMEPAD IS REQUIRED TO PLAY GAME!!!!!!!
+Left Thumbstick pressed - Sprint
+
+Menu / Options / + - Pause Game
+
+# KBM CONTROLS
+WASD - Move
+
+Shift - Sprint
+
+Space - Jump (Click twice for double jump)
+
+R - Reload
+
+E (WHILE LOOKING AT DRONE) - Grapple Kill
+
+F - Melee 
+
+Q - Hammer Toss (3 charges)
+
+T - Hammer Throw (5 sec cooldown)
+
+Escape - Pause Game
+
