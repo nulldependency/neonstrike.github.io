@@ -7,6 +7,9 @@ a never ending hell storm of vigorous foes and master the arena by showing your 
 
 Stay up to date by joining the official Neon Strike discord server: [DISCORD](https://discord.gg/4qXaDScXe5)
 
+Latest Trailer: 
+https://github.com/user-attachments/assets/50b3a15d-8bbe-432b-98b7-5c416ece2894
+
 # GAMEPAD CONTROLS:
 ### Xbox / PS / Nintendo
 Left Thumbstick - move
@@ -51,4 +54,6 @@ Q - Hammer Toss (3 charges)
 T - Hammer Throw (5 sec cooldown)
 
 Escape - Pause Game
+
+
 
