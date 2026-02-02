@@ -8,7 +8,11 @@ a never ending hell storm of vigorous foes and master the arena by showing your 
 Stay up to date by joining the official Neon Strike discord server: [DISCORD](https://discord.gg/4qXaDScXe5)
 
 Latest Trailer: 
-https://github.com/user-attachments/assets/50b3a15d-8bbe-432b-98b7-5c416ece2894
+
+
+https://github.com/user-attachments/assets/24c15a01-be4d-4da7-89e6-8a8dafe9e2ff
+
+
 
 # GAMEPAD CONTROLS:
 ### Xbox / PS / Nintendo
